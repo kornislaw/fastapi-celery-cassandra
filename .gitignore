@@ -1,10 +1,11 @@
 .DS_Store
-
+.idea/
 app/ignore/
 bin/
 etc/
 include/
 lib/
+lib64
 share/
 celerybeat-schedule.db
 
@@ -137,3 +138,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/lib64/
